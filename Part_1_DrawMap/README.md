@@ -4,6 +4,7 @@
 
 1. The land in this map has no fill. Change the color of the states.
 2. What happens if you change the color of the .state-boundaries border? What about the land border?
+When i change the color of .state-boundaries boreder the border color changed, and for land, the land changed colors. 
 3. Change the width of the borders.
 4. Adjust the zoom of the map.
 5. Have the map show counties instead of only states.
